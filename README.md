@@ -15,12 +15,12 @@
 <link rel="icon" type="image/x-icon" href="https://malasid.github.io/favicon.png">
 <meta name="description" content="HTML Bucin Malas.id">
 <!-- 
-  Made with love by Rayys!
+  Made with love by Angga!
   
-     Blog: www.feeldream.id
-     Instagram: @rayyarrr
-     TikTok: @feelthisray
-     Email: rayyarr73@gmail.com
+     Blog: www.Agastore.github.io
+     Instagram: @masaga
+     TikTok: @masaga
+     Email: mohanggakurniawanf12@gmail.com
      
   Thanks to all <3
 -->
