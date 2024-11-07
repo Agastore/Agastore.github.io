@@ -1,29 +1,124 @@
 # Agastore.github.io
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Document</title>
-</head>
-<body>
-     <center><h1><b>NENENG</b></h1></center>
-    <iframe width="565" height="1100" src="neneng.jpg" frameborder="2" ></iframe>
-    <br>
-  <br>
-     <a>Neneng adalah cewe yang saya cintai sejak tahun 2022,, kami bertemu ditahun 2022 saya bertemu di media sosmet salah satunya diwhatsapp dan saya mulai berteman dimedia lainnya seperti tiktok ig dan facebook. Dulu saya pernah mempunyai hubungan cinta dengan Neneng pada tanggal 15 - february - 2023 dan hubungan saya dengan neneng putus pada tanggal 15 - mei - 2023 saya mempunyai hubungan dengan Neneng selama 3 bulan dan hubungan itu hancur karena ego saya.
-     <br>
-     <br>
-        Singkat cerita saya dan Neneng seketikq los contack dan bertemu lagi pada tanggal 17 - oktober - 2023 saya dan Neneng pun saling bertukar cerita dan membahas hubungan kita dulu dan seketika menjadi asing lagi.
-        <br>
-        <br>
-        Dan pada tanggal 12 - april - 2024 dan saya disini masi mencintai seorang Bidadari yaitu Neneng, saya sering meminta foto Neneng untuk membuang rasa kangen saya kepada Neneng, dan pada hari ke-15 Neneng pun sudah slow responst atau lama membalas pesan saya, disini saya sangat kesal kepada Neneng sampai kehilangan kendali. Dipikiran saya hanya 1 ingin memperontas whatsapp Neneng. Disini pun saya tidak banyak berpikir saya langsung saja mengirim virus ke Whatsapp Neneng. Dan disini saya sangat menyesal telah mengirim virus ke Whatsapp Neneng. Saya frustasi setiap hari memikirkan neneng dan menatap fotonya yang sangat cantik bagaikan bidadari turun dari syurga, dan akhirnya saya berusaha melupakan Neneng.
-        <br>
-        <br>
-        Singkat cerita saya sudah mulai melupakan Neneng tetapi Neneng pun muncul kembali di dalam group disitu saya bahagia banget ketika dia masi mengingat saya, saya harap Neneng bisa membuka blokiran pada nomor saya, tetapi saya salah yang ada Neneng pun menghilang kembali. Disini saya pun mulai frustasi kembali karena Neneng. Saya terus mikirin Neneng.
-        <br> 
-        <br>
-        Dan pada tanggal 06 - oktober - 2024 saya pun mulai memberi pesan kepada Neneng saya sanget bahagia sekali bisa bertemu wanita yang saya sayangi dari dulu sampai sekarang, saya pun minta kepada Neneng untuk memperbaiki hubungan kita tetapi Neneng menolaknya secara terang terangan, disini saya sangat cemas takut kehilangan seseorang yang saya sayangi sejak dulu. Dan saya berharap bisa berhubungan kembali seperti dulu Neneng jika kamu tau aku masi mencintaimu sampai saat ini aku menyesal dengan kesalahanku aku minta maaf atas kesalahanku, sampai disini dulu cerita tentang Bidadari alias Neneng si cantik bagaikan Bidadari</a>
+<html lang="id">
+<meta charset='UTF-8'/><meta content='width=device-width, initial-scale=1, user-scalable=1, minimum-scale=1, maximum-scale=5' name='viewport'/><meta content='IE=edge' http-equiv='X-UA-Compatible'/>
   
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.0.19/dist/sweetalert2.all.min.js"></script>
+  <script src="https://unpkg.com/typeit@8.7.0/dist/index.umd.js"></script><link href="https://feeldreams.github.io/perasaanku/style.css" rel="stylesheet" type="text/css" />
+  <script src="https://kit.fontawesome.com/4f3ce16e3e.js" crossorigin="anonymous"></script>
+  
+<head>
+<title>Permintaan Maafku yang Tulus</title>
+<link rel="icon" type="image/x-icon" href="https://malasid.github.io/favicon.png">
+<meta name="description" content="HTML Bucin Malas.id">
+<!-- 
+  Made with love by Rayys!
+  
+     Blog: www.feeldream.id
+     Instagram: @rayyarrr
+     TikTok: @feelthisray
+     Email: rayyarr73@gmail.com
+     
+  Thanks to all <3
+-->
+</head>
+<style>
+:root {
+--ukuran-teks: 14px;
+--gaya-font: 'Poppins', sans-serif;
+}
+</style>
+<body>
+	
+   <!-- Ganti Audio di sini -->
+   <audio src="https://feeldreams.github.io/sepertinya/sepertinya.mp3" id="linkmp3" class="sembunyi"></audio>
+   
+   <div id="bodyblur"><img src="" id="wallpaper"/></div>
+   
+   <div id='Content'>
+
+     <div id="ftAwal">
+       <!-- Stiker Pembuka -->
+       <img src="https://feeldreams.github.io/heart.png" id="ftoAwal"/>
+     </div>
+
+     <div id="loveIn">
+       <!-- Tombol LOVE --><label class='lovein'>❤️</label>
+     </div>
+     <p id="ket">Sentuh LOVEnya!</p>
+
+     <div class="kumpulan">
+     	<!-- Kumpulan Background -->
+     	<img src="https://feeldreams.github.io/sepertinya/1.jpg" id="bg1"/>
+     	<img src="https://feeldreams.github.io/sepertinya/2.jpg" id="bg2"/>
+         <img src="https://feeldreams.github.io/sepertinya/3.jpg" id="bg3"/>
+         <img src="https://feeldreams.github.io/sepertinya/4.jpg" id="bg4"/>
+         <img src="https://feeldreams.github.io/sepertinya/5.jpg" id="bg5"/>
+         <img src="https://feeldreams.github.io/sepertinya/6.jpg" id="bg6"/>
+         <img src="https://feeldreams.github.io/sepertinya/7.jpg" id="bg7"/>
+         <img src="https://feeldreams.github.io/sepertinya/8.jpg" id="bg8"/>
+         <img src="https://feeldreams.github.io/sepertinya/9.jpg" id="bg9"/>
+         <img src="https://feeldreams.github.io/sepertinya/10.jpg" id="bg10"/>
+         
+         <!-- Foto/Stiker Akhir -->
+         <img src="https://feeldreams.github.io/bolehkah/heart.png" id="ftoAkhir"/>
+     </div>
+     
+     <div><blockquote id='bq'>
+       <p id="kalimat" style="text-align:center"></p>
+     </blockquote></div>
+     
+     <!-- Tombol Kirim Pesan -->
+     <div id="Tombol">
+       <a id="By">&#128140; Balas</a>
+     </div>
+
+   </div>
+
+<!-- Jangan Edit Bagian Ini --><script>
+  const body = document.querySelector("body");const swalst = Swal.mixin({timer: 2500, allowOutsideClick: false, showConfirmButton: false, timerProgressBar: true, imageHeight: 90,}); audio = new Audio('' + linkmp3.src); ftganti=0;fungsi=0;fungsiAwal=0;function berjatuhan() {const heart = document.createElement("div"); heart.className = "fas fa-heart"; heart.style.left = (Math.random() * 90)+"vw"; heart.style.animationDuration = (Math.random()*3)+2+"s"; body.appendChild(heart);} setInterval(function name(params) {var heartArr = document.querySelectorAll(".fa-heart"); if (heartArr.length > 100) {heartArr[0].remove()}},100);Content.style = "opacity:1;margin-top:14vh"; const swals = Swal.mixin({allowOutsideClick: false, cancelButtonColor: '#FF0040', imageHeight: 80,}); const inip = []; const iniwp = []; iden = 1; setTimeout(tes,500);function tes(){wallpaper.src = iniwp[1];}
+  
+  iniwp[1] = bg1.src; 
+  iniwp[2] = bg2.src; 
+  iniwp[3] = bg3.src; 
+  iniwp[4] = bg4.src; 
+  iniwp[5] = bg5.src; 
+  iniwp[6] = bg6.src; 
+  iniwp[7] = bg7.src; 
+  iniwp[8] = bg8.src;
+  iniwp[9] = bg9.src;
+  iniwp[10] = bg10.src;
+  
+  inip[1] = "sepertinya aku masih<br>belum berhasil yaa,";
+  inip[2] = "untuk menjadi<br>apa yang kamu mau";
+  inip[3] = "aku minta maaf ya";
+  inip[4] = "kalo sama aku,";
+  inip[5] = "kamu banyak kecewanya";
+  inip[6] = "dan juga banyak sedihnya,";
+  inip[7] = "aku minta maaf";
+  inip[8] = "kalo kamu ketemunya<br>sama orang seperti aku";
+  inip[9] = "yang masih belum<br>bisa bahagiain kamu";
+  inip[10] = "sekali lagi<br>aku minta maaf ツ";
+  
+  totalPesan = 10; //Input total pesan (slide) di sini ya!
+
+function waktumuncul(){
+	  setTimeout(kalimatakhir,4100);
+      setTimeout(kalimatakhir,7200);
+      setTimeout(kalimatakhir,9900);
+      setTimeout(kalimatakhir,11900);
+      setTimeout(kalimatakhir,13300);
+      setTimeout(kalimatakhir,15800);
+      setTimeout(kalimatakhir,18800);
+      setTimeout(kalimatakhir,21000);
+      setTimeout(kalimatakhir,24400);
+      setTimeout(kalimatakhir,27600);
+}
+</script>
+<script src="https://malasid.github.io/html/maafku.js"></script>
+<!-- Sampai Sini -->
 </body>
 </html>
